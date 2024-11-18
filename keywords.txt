@@ -1,0 +1,5 @@
+loremipsum	KEYWORD1
+
+//Generate lorem ipsum
+sentence	KEYWORD2
+paragraph	KEYWORD2
